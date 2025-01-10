@@ -6,16 +6,16 @@ kernel from scratch project
 짬날때마다 디코와서 실시간 코딩
 
 
-#kfs-1
+# kfs-1
 boot loader(GRUB)을 사용하여 최초 구동되는 kerenl 구현
 
 wmo : bootloader 구현
 juhyulee : main kernel 구현
 
-##grub
+## grub
 
-##ASM boottabe
+## ASM boottabe
 
-##basic kernel library
+## basic kernel library
 
-##basic Hello world kernel
+## basic Hello world kernel
